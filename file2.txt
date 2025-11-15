@@ -2,3 +2,5 @@ Hi, this is file two.
 Add more content in the 2nd file.
 
 added more content for the file2 in main
+
+added content for marketing
