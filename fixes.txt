@@ -1,3 +1,7 @@
 I am a new file to fix the bug.
 
 added a second bug fix
+
+found another bug and fix it.
+forth bug found and fixed.
+fifth bug fixed
