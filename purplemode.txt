@@ -1,1 +1,3 @@
 purple mode added for website
+
+another new line for purple-mode
